@@ -5,7 +5,7 @@ li{ list-style: none; float: left}
 a{ text-decoration: none}
 <!-- 注意！下方引用的是存储在网络上而非项目文件夹内的背景图片文件，请修改为自己的背景图片文件地址，避免失效 -->
 body {	
-    background-image: url(http://global.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp);
+        background-image: url(https://static01.imgkr.com/temp/60ed4614d0dc4959b657c397223abbce.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
